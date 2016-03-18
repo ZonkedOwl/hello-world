@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi Everyone, 
+
+I am here because I want to learn more about programming. 
